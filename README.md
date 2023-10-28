@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFx1BHA3gw/uj25Xd7Dyx3PlHirNbMCxA/edit?utm_content=DAFx1BHA3gw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h1 align="center">Hi 👋, I'm Nihar</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
